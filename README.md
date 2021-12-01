@@ -23,7 +23,8 @@ The BUGTRONS 2.0, revamped version of [BUGTRONS](https://github.com/devstrons/bu
  
 - [DEVSTRONS'](https://devstrons.bio.link/): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code and Tron (grow).
 
-- [Learn With Community](): sit amen lorem ipsum dolor sit amet non sit amen lorem ipsum dolor sit amet non
+- [Learn With Community](): Let's Learn, grow and give back to this Community.
+
 
 > "Competition makes us faster. Collaboration makes us better"
 
@@ -55,7 +56,7 @@ The respective contest rounds would be organised on the following platforms :
 
 ## ⚡ PARTICIPATION GUIDELINES
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions]() without violating them.
+Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](Instructions.md) without violating them.
 </div>
 
 
@@ -63,7 +64,7 @@ Rules and regulations help hackers understand what is expected of them & make su
 
 ## 📰 CODE OF CONDUCT
 
-Every participant is requested to abide by the [Code of Conduct](). Failure to do so will result in immediate disqualification.
+Every participant is requested to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
 
 </div>
 
