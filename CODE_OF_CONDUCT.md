@@ -5,7 +5,7 @@
  -->
 
 ## Round 1: DSA basic round 
-The Participants should abide with these Code of Conduct. Here are they: <!-- !Joshith, correct this line according to you -->
+All the participants are to abide by the following Code of Conduct : 
  - You should not have multiple accounts on Hackerrank. If you have, then you should delete all except one.
  - If you encounter any issue during an ongoing contest, post it as a message on the [DEVSTRONS](https://discord.com/invite/MVujzTBqed) discord server. The problem setter will help you get over it.
  - You should avoid sharing formulae, logic, or any other significant aspect of your code during a contest. If our plagiarism algorithm finds striking similarities between your code and someone else’s, your account may stand the risk of being suspended.
