@@ -1,9 +1,9 @@
-
-- about
-- structure
-- participation guidelines
-- Code of conduct
-- Sponsors
+<!-- 
+* - about
+* - structure
+* - participation guidelines
+* - Code of conduct
+* - Sponsors -->
 
 
 <div style="text-align:center;">
