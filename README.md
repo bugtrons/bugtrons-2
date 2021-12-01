@@ -6,7 +6,7 @@
 * - Sponsors -->
 
 
-<div style="text-align:center;">
+<div align="center">
 
 # <img src="https://media.discordapp.net/attachments/888838979728855080/914446960877006898/logov1.2.png?width=537&height=618" width=25px > BUGTRONS 2.0
 ### LET'S CODE TO DEBUG ✨
@@ -14,7 +14,7 @@
 
 <!-- ! Head banner for the event -->
 
-<div style="text-align:center;"> 
+<div align="center"> 
 
 ## 🤖 ABOUT
 </div>
@@ -29,7 +29,7 @@ The BUGTRONS 2.0, revamped version of [BUGTRONS](https://github.com/devstrons/bu
 
 We believe in open source for everyone. Programming ability enhances the folks' development among communities. Therefore, we put emphasis on problem solving, code efficiency, code optimization and logic based programming.
 
-<div style="text-align:center;">
+<div align="center">
  
  ## ⚙ STRUCTURE
 
@@ -51,7 +51,7 @@ The respective contest rounds would be organised on the following platforms :
 !Debug Round 1. Participants are to debug and submit the provided program
  -->
 
-<div style="text-align:center">
+<div align="center">
 
 ## ⚡ PARTICIPATION GUIDELINES
 
@@ -59,7 +59,7 @@ Rules and regulations help hackers understand what is expected of them & make su
 </div>
 
 
-<div style="text-align:center">
+<div align="center">
 
 ## 📰 CODE OF CONDUCT
 
@@ -67,7 +67,7 @@ Every participant is requested to abide by the [Code of Conduct](). Failure to d
 
 </div>
 
-<div style="text-align:center">
+<div align="center">
 
 ## 👕 PRIZE
 
