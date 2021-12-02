@@ -5,14 +5,16 @@
 * - Code of conduct
 * - Sponsors -->
 
-
 <div align="center">
-
-# <img src="https://media.discordapp.net/attachments/888838979728855080/914446960877006898/logov1.2.png?width=537&height=618" width=25px > BUGTRONS 2.0
-### LET'S CODE TO DEBUG ✨
+  <h1 align="center"> 🐛 BUGTRONS 2.0 </h1>
+</div> 
+<div align="center">
+  <h3 align="center"> LET'S CODE TO DEBUG ✨ </h3>
 </div>
 
-<!-- ! Head banner for the event -->
+<div align="center">
+    <img width="100%" alt="Event banner" src="./assets/bugtrons2-banner.png">
+</div>
 
 <div align="center"> 
 
