@@ -6,7 +6,7 @@
 * - Sponsors -->
 
 <div align="center">
-  <h1 align="center"> 🐛 BUGTRONS 2.0 </h1>
+  <h1 align="center"> 🐛 BUGTRONS 2.O </h1>
 </div> 
 <div align="center">
   <h3 align="center"> LET'S CODE TO DEBUG ✨ </h3>
