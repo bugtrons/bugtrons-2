@@ -58,7 +58,7 @@ The respective contest rounds would be organised on the following platforms :
 
 ## ⚡ PARTICIPATION GUIDELINES
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](Instructions.md) without violating them.
+Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](instructions.md) without violating them.
 </div>
 
 
