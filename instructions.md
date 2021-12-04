@@ -5,7 +5,7 @@
   
   - Make an account on [Hackerrank](https://www.hackerrank.com/) website and complete your profile.
   - Register for the BUGRTONS event on Hackerrank. Invite link is [here](https://www.hackerrank.com/bugtrons).
-  - This will be a 3 hours contest where participants will be provided by questions and they have to solve them in given time duration only.
+  - This will be a 4 hours contest where participants will be provided by questions and they have to solve them in given time duration only.
   - Valid test cases (added by problem setter/tester) will check your submission and will provide you with required points.
   - Top 20 hackers from the Hackerrank leaderboard will be selected for the next round.
   
@@ -35,4 +35,6 @@
   - This will be a **100 minutes** contest where participants will be provided by questions and they have to solve them in given time duration only.
   - Use your above Hackerrank account to participate in this round. Contest Link will be shared to you on given time.
   - Valid test cases (added by problem setter/tester) will check your submission and will provide you with required points.
-  - Top 3 hackers from the Hackerrank leaderboard will receive prizes and swags from [DEVSTRONS](https://devstrons.bio.link)
+  - Top 3 hackers (winners) from the Hackerrank leaderboard will receive prizes and swags from [DEVSTRONS](https://devstrons.bio.link)
+ 
+ **Note**: Use your above Hackerrank account to participate in this round. Contest Link will be shared to you on given time.
