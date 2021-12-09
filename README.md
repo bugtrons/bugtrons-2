@@ -6,7 +6,7 @@
 * - Sponsors -->
 
 <div align="center">
-  <h1 align="center">🐛 BUGTRONS 2.O</h1>
+  <h1 align="center">🐛 BUGTRONS 2.0</h1>
 </div> 
 <div align="center">
   <h3 align="center"> LET'S CODE TO DEBUG ✨ </h3>
@@ -22,7 +22,7 @@
 
 </div>
 
-The BUGTRONS 2.O, revamped version of [BUGTRONS](https://github.com/devstrons/bugtrons), is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
+The BUGTRONS 2.0, revamped version of [BUGTRONS](https://github.com/devstrons/bugtrons), is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
 
 - [DEVSTRONS'](https://devstrons.bio.link/): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code and Tron (grow).
 
@@ -38,7 +38,7 @@ We believe in open source for everyone. Programming ability enhances the folks' 
 
 </div>
 
-BUGRTONS 2.O will be conducted in 3 phases.
+BUGRTONS 2.0 will be conducted in 3 phases.
 
 This time, the contest is going to comprise both DSA and Debugging round for proper screening and evaluation. The participants would be judged on the basis of their Code submissions.
 
