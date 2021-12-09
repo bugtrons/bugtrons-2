@@ -25,7 +25,7 @@ The BUGTRONS 2.0, revamped version of [BUGTRONS](https://github.com/devstrons/bu
  
 - [DEVSTRONS'](https://devstrons.bio.link/): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code and Tron (grow).
 
-- [Learn With Community](): Let's Learn, grow and give back to this Community.
+- [Learn With Community](http://learnwithcommunity.bio.link): An open source community, focusing on the best way of learn, learning together.
 
 
 > "Competition makes us faster. Collaboration makes us better"
