@@ -48,9 +48,9 @@ The respective contest rounds would be organized on the following platforms:
 
  |Round| Platform | Duration | Description |
  | --- | --- | --- | --- |
- | 1 |[Hackerrank](https://www.hackerrank.com/)| 3 hours | DSA round: This round which will mainly focus on easy and logic-based problems. |
- | 2 |[JetBrains IDE](https://replit.com/)| 2 hours | Debug Round: Participants have to debug and submit the provided program. |
- | 3 |[Hackerrank](https://www.hackerrank.com/)| 100 Min. | DSA round: This round consists of some medium and hard-level questions that can put your skills to the test. |
+ | 1 |[Hackerrank](https://www.hackerrank.com/)| 4 hours | DSA round: This round which will mainly focus on easy and logic-based problems. |
+ | 2 |[GitHub](https://github.com/)| 3 hours | Debug Round: Participants have to debug and submit the provided program. |
+ | 3 |[Hackerrank](https://www.hackerrank.com/)| 2 hours | DSA round: This round consists of some medium and hard-level questions that can put your skills to the test. |
 
 <!-- 
 !Debug Round 1. Participants are to debug and submit the provided program
