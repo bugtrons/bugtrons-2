@@ -14,7 +14,7 @@
 
 ## 2️⃣ Round 2: DSA Debugging Round
 
-- Duration : `2 Hours`
+- Duration : `3 Hours`
 - Contest Mode : Debug the code files given in the Repl.it link.
 <!-- !- This will be 2 hours contest where you have to debug the code files given on the Repl.it link. -->
 - **Step 1** :
@@ -41,7 +41,7 @@
 ## 3️⃣ Round 3: DSA Standard Round (Final Round)
 
 - Final Round.
-- Duration : `100 Minutes`
+- Duration : `2 Hours`
 - Platform : `Hackerrank`
 - Participants are to solve the provided questions in given time duration only.
 - Contest Link will be shared to you through an email.
