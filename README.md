@@ -24,7 +24,7 @@
 
 The BUGTRONS 2.0, revamped version of [BUGTRONS](https://github.com/devstrons/bugtrons), is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
 
-- [DEVSTRONS'](https://devstrons.bio.link/): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code and Tron (grow).
+- [DEVSTRONS'](https://devstrons.bio.link/): Student-run Open source, inclusive & diverse community intending towards learning together and making opportunities.
 
 - [Learn With Community](https://learnwithcommunity.bio.link): A tech community, focusing on the best way to learn, learning together.
 
@@ -46,11 +46,11 @@ This time, the contest is going to comprise both DSA and Debugging round for pro
 
 The respective contest rounds would be organized on the following platforms:
 
- |Round| Platform | Duration | Description |
- | --- | --- | --- | --- |
- | 1 |[Hackerrank](https://www.hackerrank.com/)| 4 hours | DSA round: This round which will mainly focus on easy and logic-based problems. |
- | 2 |[GitHub](https://github.com/)| 3 hours | Debug Round: Participants have to debug and submit the provided program. |
- | 3 |[Hackerrank](https://www.hackerrank.com/)| 2 hours | DSA round: This round consists of some medium and hard-level questions that can put your skills to the test. |
+ | Round | Date | Platform | Tasks | Duration | Description |
+ | :--: | :--: | :--: | :--: | :--: | :--: |
+ | 1 | 04-03-22 |[Hackerrank](https://www.hackerrank.com/)| 6 Problems | 4 hours | DSA round: This round which will mainly focus on easy and logic-based problems. |
+ | 2 | 05-03-22 |[GitHub](https://github.com/) & [Replit](https://repl.it)| 3 Buggy code | 3 hours | Debug Round: Participants have to debug the provided code and submit via GitHub. |
+ | 3 | 06-03-22 |[Hackerrank](https://www.hackerrank.com/)| 2 Problems | 2 hours | DSA round: This round consists of some medium and hard-level questions that can put your skills to the test. |
 
 <!-- 
 !Debug Round 1. Participants are to debug and submit the provided program
@@ -75,7 +75,7 @@ Every participant is requested to abide by the [Code of Conduct](CODE_OF_CONDUCT
 
 ## 👕 PRIZE
 
-All divisions will be judged simultaneously. The top 3 hackers will be awarded amazing prizes.
+All divisions will be judged simultaneously. The top 3, 10 and 20 hackers will be awarded [amazing prizes](https://www.bugtrons.co/swags). All the participants get participation & appreciation according to the presence among programs i.e., conferences, podcasts & contest simultaneously.
 </div>
 
 <!--
