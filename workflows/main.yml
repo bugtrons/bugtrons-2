@@ -1,0 +1,25 @@
+name: Create issue on commit
+
+on: [ pull_request_target ]
+
+jobs:
+  create_repo_collobrator:
+    runs-on: ubuntu-latest 
+    permissions:
+      issues: write 
+    steps:
+      - name: Create repo
+        run: |
+          curl --request POST \
+            --header "Accept: application/vnd.github.v3+json" \
+            --header "authorization: Bearer ${{ secrets.TOKEN }}" \
+            --url https://api.github.com/orgs/bugtrons/repos \
+            --data '{"name":"coder-${{github.event.pull_request.user.login}}", "private":"true"' \
+            --fail
+      - name: Add colobrator
+        run: |
+          curl --location --request PUT 'https://api.github.com/repos/bugtrons/coder-${{github.event.pull_request.user.login}}/collaborators/${{github.event.pull_request.user.login}}' \
+            --header 'authorization: token ${{ secrets.TOKEN }}' \
+            --header 'Content-Type: application/json' \
+            --data-raw '{ "permission": "admin" }'
+            
